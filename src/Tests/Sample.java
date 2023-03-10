@@ -6,6 +6,7 @@ public class Sample {
 		// TODO Auto-generated method stub
 
 		String s ="abcd";
+		int age=25;
 	}
 
 }
