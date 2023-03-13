@@ -8,6 +8,7 @@ public class Sample {
 		String s ="abcd";
 		int age=25;
 		String s1="KARNATAKA";
+		String s2="USA";
 	}
 
 }
